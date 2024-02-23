@@ -24,7 +24,7 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - Fork the project
 - Clone the forked repository in your local system
 - Create .env file in the root directory and add the following:-
-  - PORT="Your port number"
+  - PORT="Your port number"(in the code it is local:3000)
   - MONGODB_URL="Your MongoDB URL"
   - SESSION_SECRET_KEY="Your secret session key"
 - Install all required packages
