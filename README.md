@@ -1,11 +1,10 @@
 # employee-review-system
 
-
 This Employee review web application is created for employees to submit feedback toward each other's performance. User's could have either "employee" or "admin" role. There are two dashboard pages based on the role of the employee those dashboard pages will be rendered, User with role of admin can assign employees to participate in review of other employees. Employees can only submit feedback required by assigned reviews. \
 It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
 
-## ⚙️ Functionality
+## Functionality
 
 ### Admin's functions
 
@@ -31,14 +30,13 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 - Install all required packages
 
 bash
-npm install
+npm i
 
 
 - Run project
 
 bash
 npm start
-
 
 The project is running on the port number provided by you.
 
