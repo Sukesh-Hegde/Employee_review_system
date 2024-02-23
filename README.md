@@ -63,3 +63,10 @@ The project is running on the port number provided by you.
 - passport
 - passport-jwt
 - passport-local
+
+### screenshots
+
+![Screenshot 2024-02-23 at 3 54 30 PM](https://github.com/Sukesh-Hegde/Employee_review_system/assets/128299015/985c6def-e7de-4fd3-a599-a5c94c7e01c6)
+
+![Screenshot 2024-02-23 at 3 54 19 PM](https://github.com/Sukesh-Hegde/Employee_review_system/assets/128299015/48743061-7276-44ce-9931-8a95f20cf62e)
+
